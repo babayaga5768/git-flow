@@ -8,3 +8,10 @@ const calc = (a, b) => {
 }
 
 calc(4, 5);
+
+
+const multi = (a, b) => {
+	console.log(a*b);
+}
+
+multi(4, 5);
