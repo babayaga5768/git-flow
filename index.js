@@ -15,3 +15,4 @@ const multi = (a, b) => {
 }
 
 multi(4, 5);
+multi(4, 7);
