@@ -8,6 +8,7 @@ const calc = (a, b) => {
 }
 
 calc(4, 5);
+calc(1,7);
 
 
 const multi = (a, b) => {
